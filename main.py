@@ -93,6 +93,7 @@ def load_css():
         border: 1px solid var(--primary-color);
         border-radius: 18px 18px 5px 18px;
         padding: 12px 16px;
+        color: #FFFFFF;
         margin-left: 20%;
         position: relative;
     }
@@ -102,6 +103,7 @@ def load_css():
         border: 1px solid #E0E0E0;
         border-radius: 18px 18px 18px 5px;
         padding: 12px 16px;
+        color: #FFFFFF;
         margin-right: 20%;
         position: relative;
     }
