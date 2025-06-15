@@ -32,7 +32,7 @@ def load_css():
         --accent-color: #1E90FF;
         --background-color: #F0F8FF;
         --text-color: #2F4F4F;
-        --chat-bg: #FFFFFF;
+        --chat-bg: #000000;
         --user-msg-bg: #E6F3FF;
         --bot-msg-bg: #F8F9FA;
     }
