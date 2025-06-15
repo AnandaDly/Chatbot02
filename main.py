@@ -27,14 +27,14 @@ def load_css():
     <style>
     /* Main theme colors - Sky Blue */
     :root {
-        --primary-color: #87CEEB;
+        --primary-color: #a600ff;
         --secondary-color: #4682B4;
         --accent-color: #1E90FF;
         --background-color: #F0F8FF;
-        --text-color: #2F4F4F;
+        --text-color: #1cd8d8;
         --chat-bg: #FFFFFF;
-        --user-msg-bg: #1cd8d8;
-        --bot-msg-bg: #1cd8d8;
+        --user-msg-bg: #a600ff;
+        --bot-msg-bg: #4682B4;
     }
     
     /* Hide default Streamlit elements */
@@ -108,7 +108,7 @@ def load_css():
     
     .message-time {
         font-size: 0.75rem;
-        color: #888;
+        color: #000000;
         margin-top: 5px;
         text-align: right;
     }
