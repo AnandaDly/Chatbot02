@@ -33,8 +33,8 @@ def load_css():
         --background-color: #F0F8FF;
         --text-color: #2F4F4F;
         --chat-bg: #FFFFFF;
-        --user-msg-bg: #E6F3FF;
-        --bot-msg-bg: #F8F9FA;
+        --user-msg-bg: #007ff4;
+        --bot-msg-bg: #3f7bb6;
     }
     
     /* Hide default Streamlit elements */
