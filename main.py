@@ -27,14 +27,14 @@ def load_css():
     <style>
     /* Main theme colors - Sky Blue */
     :root {
-        --primary-color: #a600ff;
+        --primary-color: #87CEEB;
         --secondary-color: #4682B4;
         --accent-color: #1E90FF;
         --background-color: #F0F8FF;
-        --text-color: #1cd8d8;
+        --text-color: #2F4F4F;
         --chat-bg: #FFFFFF;
-        --user-msg-bg: #a600ff;
-        --bot-msg-bg: #4682B4;
+        --user-msg-bg: #E6F3FF;
+        --bot-msg-bg: #F8F9FA;
     }
     
     /* Hide default Streamlit elements */
